@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6a7cb22.chunk.css",
+    "main.js": "/static/js/main.df89c7ee.chunk.js",
+    "main.js.map": "/static/js/main.df89c7ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7427bedc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7427bedc.js.map",
+    "static/js/2.998b8989.chunk.js": "/static/js/2.998b8989.chunk.js",
+    "static/js/2.998b8989.chunk.js.map": "/static/js/2.998b8989.chunk.js.map",
+    "static/js/3.d01456af.chunk.js": "/static/js/3.d01456af.chunk.js",
+    "static/js/3.d01456af.chunk.js.map": "/static/js/3.d01456af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d6a7cb22.chunk.css.map": "/static/css/main.d6a7cb22.chunk.css.map",
+    "static/js/2.998b8989.chunk.js.LICENSE.txt": "/static/js/2.998b8989.chunk.js.LICENSE.txt",
+    "static/media/hairDryer1.8ff2409b.png": "/static/media/hairDryer1.8ff2409b.png",
+    "static/media/headerSalonPicture.f5830ea5.jpg": "/static/media/headerSalonPicture.f5830ea5.jpg",
+    "static/media/App.css": "/static/media/safety1.f6770e5a.jpg",
+    "static/media/pink15.c6fe6a58.jpg": "/static/media/pink15.c6fe6a58.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7427bedc.js",
+    "static/js/2.998b8989.chunk.js",
+    "static/css/main.d6a7cb22.chunk.css",
+    "static/js/main.df89c7ee.chunk.js"
+  ]
+}
